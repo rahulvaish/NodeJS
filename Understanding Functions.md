@@ -1,6 +1,6 @@
 ### Node[JS] Concepts
 
-##### Function could be represented in the below ways:
+##### A function could be represented in the below ways:
 
 ```
 var printHelloEarth0 = function() {
