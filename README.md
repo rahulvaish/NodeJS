@@ -17,5 +17,6 @@ npm install mongoose
 #### Step3: Setup DB:
 <img width="1291" alt="image" src="https://github.com/rahulvaish/NodeJS/assets/689226/6de6ba8b-b9c1-48a1-9664-35f519dea316">
 
-<img width="1291" alt="image" src="https://github.com/rahulvaish/NodeJS/assets/689226/1f5ede80-3992-4035-8bbc-b04b2359c0b6">
+<img width="1158" alt="image" src="https://github.com/rahulvaish/NodeJS/assets/689226/07ea3385-0d80-4de7-bf74-5e135df7efbe">
+
 
