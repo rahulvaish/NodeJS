@@ -1,4 +1,4 @@
-#### Understanding Modules
+#### Understanding Modules: Filename = Module
 
 ###### Step#1: Create a file earth.js 
 ```
