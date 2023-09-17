@@ -14,7 +14,13 @@ function printHelloEarth1() {
 }
 ```
 Invoked as: **printHelloEarth1();**
- 
+
+```
+var printHelloEarth2 = ()=>{
+   console.log("Hello Earth 2");
+}
+```
+Invoked as: **printHelloEarth2();**
  <hr>
 
  ##### Function Interaction:
